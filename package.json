@@ -1,0 +1,25 @@
+{
+  "name": "vite-first",
+  "version": "1.0.0",
+  "description": "一个简单的 vite + vue 项目",
+  "main": "in.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "Mr.wu",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.4",
+    "element-plus": "^2.1.2",
+    "naive-ui": "^2.26.4",
+    "pinia": "^2.0.11",
+    "unplugin-auto-import": "^0.6.4",
+    "unplugin-vue-components": "^0.18.0",
+    "vite": "^2.8.6",
+    "vite-auto-import-resolvers": "^2.1.6",
+    "vue": "^3.2.31",
+    "vue-router": "^4.0.14"
+  }
+}
