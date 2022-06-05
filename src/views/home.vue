@@ -1,9 +1,9 @@
 <script setup>
-import Bar from '../components/bar.vue';
+import Bar from '../components/bar.vue'
 // const a = ref(20)
 // const inc = () => a.value++
 
-const counter = counterStore()
+const counter = counterStore()  
 </script>
 
 <template>
